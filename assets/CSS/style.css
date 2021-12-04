@@ -1,0 +1,48 @@
+html {
+    scroll-behavior: auto !important;
+}
+
+body {
+    background-color: #000000;
+    font-family: "Open Sans";
+    font-size: 20px;
+    color: #ffffff;
+}
+
+/* Navbar */
+
+.navbar {
+    background-color: #51b2b9 ;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar-brand {
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-weight: 400;
+}
+
+/* Quienes Somos */
+
+#quienes-somos {
+    background-color: #000000;
+    font-family: "Open Sans";
+    line-height: 2;
+    justify-content: flex-start;
+}
+
+#quienes-somos hr {
+    color: #51b2b9;
+}
+
+#quienes-somos i {
+    align-items: center;
+    background-color: #51b2b9;
+}
+
+
+
+
+
