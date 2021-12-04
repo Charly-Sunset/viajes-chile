@@ -42,6 +42,16 @@ body {
     background-color: #51b2b9;
 }
 
+/* destacados */
+
+#destacados hr {
+    color: #51b2b9;
+}
+
+#destacados col {
+    background-color: #51b2b9;
+}
+
 
 
 
